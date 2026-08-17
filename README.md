@@ -1,0 +1,1 @@
+# Rental Price Tracker\n\nMVP de suivi de prix de location.\n\nVariable Vercel requise: PARSE_API_KEY\n
